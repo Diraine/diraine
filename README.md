@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Planning...;Development...;Continuous+Integration+(CI);Testing;Continuous-+Deployment+(CD)...;Monitoring..;Feedback...;Operations..;Continuous+Improvement."></a>
 </p>
 <br>
----
+<hr>
 I'm a DevOps Engineer with a passion for automating processes, deploying scalable infrastructure, and optimizing CI/CD workflows. I have experience working with cloud platforms like AWS and tools such as Terraform, Kubernetes, Jenkins, and Docker.
 
 ### 🚀 Skills
@@ -18,11 +18,17 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 - Linux, redhat, 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,github,jenkins,ubuntu,bash,prometheus,grafana,elasticsearch,redhat,maven,dynamodb,mongodb,mysql,nginx,linux,nexus,html,vim,vscode,windows,wordpress,css,javascript&perline8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,github,jenkins,ubuntu,bash,prometheus,grafana,elasticsearch,redhat,maven,dynamodb,mongodb,mysql,nginx,linux,html,vim,vscode,windows,wordpress,css,javascript&perline8)](https://skillicons.dev)
 
+<hr>
+### 🌱 I’m currently learning
+- Java
+- Python
+- GitLab
+- GitHub Actions
+- Azure
+- GCP
 
-### Other skills
-java, Python, GitLab, GitHub Actions, Azure, GCP
 ### 🛠️ Featured Projects
 - [Infrastructure-as-Code with Terraform and AWS](https://github.com/tracy-devops/terraform-aws-infrastructure)
 - [Kubernetes Deployment for Microservices](https://github.com/tracy-devops/kubernetes-microservices)
