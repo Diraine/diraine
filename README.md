@@ -10,20 +10,21 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 
 ### 🚀 Skills
 - **Cloud:**
-
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 - **Automation & Orchestration:** Terraform, Ansible
-  [![My Skills](https://skillicons.dev/icons?i=terraform,ansible,)](https://skillicons.dev)
 - **Containers:** Docker, Kubernetes
-  [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
-- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
-  [![My Skills](https://skillicons.dev/icons?i=Git,GitHub,Jenkins)](https://skillicons.dev)
+- **CI/CD:** Jenkins, Git, GitHub
 - **Scripting:** Bash, Python, Groovy
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+<hr>
+[![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,docker,kubernets&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Git,Github,jenkins&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,groovy&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elk-stack&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,sonarqube,nexus,HTML,CSS,javascript,&perline=3)](https://skillicons.dev)
 
 ### Other skills
-[![My Skills](https://skillicons.dev/icons?i=gcp,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+java, Python, GitLab, GitHub Actions, Azure, GCP
 ### 🛠️ Featured Projects
 - [Infrastructure-as-Code with Terraform and AWS](https://github.com/tracy-devops/terraform-aws-infrastructure)
 - [Kubernetes Deployment for Microservices](https://github.com/tracy-devops/kubernetes-microservices)
