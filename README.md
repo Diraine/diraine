@@ -15,9 +15,10 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 - **CI/CD:** Jenkins, Git, GitHub
 - **Scripting:** Bash, Python, Groovy
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- Linux, redhat, 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,github,jenkins,bash,prometheus,grafana,elasticsearch,maven,sonarqube,nexus,html,css,javascript&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,github,jenkins,ubuntu,bash,prometheus,grafana,elasticsearch,redhat,maven,dynamodb,mongodb,mysql,nginx,linux,nexus,html,vim,vscode,windows,wordpress,css,javascript&perline8)](https://skillicons.dev)
 
 
 ### Other skills
