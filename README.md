@@ -40,5 +40,5 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 - Certified Kubernetes Administrator (CKA)
 
 ### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/tracy-devops/)
+- [LinkedIn](https://www.linkedin.com/in/mobit-diraine-189701183)
 
