@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <br>
-
+---
 I'm a DevOps Engineer with a passion for automating processes, deploying scalable infrastructure, and optimizing CI/CD workflows. I have experience working with cloud platforms like AWS and tools such as Terraform, Kubernetes, Jenkins, and Docker.
 
 ### 🚀 Skills
