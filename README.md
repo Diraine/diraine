@@ -21,7 +21,8 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,git,github,jenkins,ubuntu,bash,prometheus,grafana,elasticsearch,redhat,maven,dynamodb,mongodb,mysql,nginx,linux,html,vim,vscode,windows,wordpress,css,javascript&perline8)](https://skillicons.dev)
 
 <hr>
-### 🌱 I’m currently learning
+
+### 🌱 I’m currently learning  
 - Java
 - Python
 - GitLab
