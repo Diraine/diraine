@@ -10,7 +10,7 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 
 ### 🚀 Skills
 - **Cloud:**
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 - **Automation & Orchestration:** Terraform, Ansible
   [![My Skills](https://skillicons.dev/icons?i=terraform,ansible,)](https://skillicons.dev)
 - **Containers:** Docker, Kubernetes
