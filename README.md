@@ -1,18 +1,31 @@
 ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hi , I'm Mobit Diraine </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <br>
-<h2 id="-about-me"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
-<p><picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture></p>
-<br>
-<ul>
-<li>A passionate Self-taught Front-end developer</li>
-<li>Playing CTF’s at spare time</li>
-<li>Currently learning Web Development by Self</li>
-<li>Personal website <a href="https://www.0xabdulkhalid.ml">link</a></li>
-<li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/0xabdulkhalid">my resume</a></li>
-</ul>
+
+I'm a DevOps Engineer with a passion for automating processes, deploying scalable infrastructure, and optimizing CI/CD workflows. I have experience working with cloud platforms like AWS and tools such as Terraform, Kubernetes, Jenkins, and Docker.
+
+### 🚀 Skills
+- **Cloud:** AWS, GCP, Azure
+- **Automation & Orchestration:** Terraform, Ansible, Chef
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Scripting:** Bash, Python, Groovy
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+
+### 🛠️ Featured Projects
+- [Infrastructure-as-Code with Terraform and AWS](https://github.com/tracy-devops/terraform-aws-infrastructure)
+- [Kubernetes Deployment for Microservices](https://github.com/tracy-devops/kubernetes-microservices)
+- [CI/CD Pipeline with Jenkins and Docker](https://github.com/tracy-devops/jenkins-cicd-pipeline)
+
+### 🎓 Certifications
+- AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Administrator (CKA)
+
+### 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/tracy-devops/)
+
