@@ -9,7 +9,7 @@
 I'm a DevOps Engineer with a passion for automating processes, deploying scalable infrastructure, and optimizing CI/CD workflows. I have experience working with cloud platforms like AWS and tools such as Terraform, Kubernetes, Jenkins, and Docker.
 
 ### 🚀 Skills
-- **Cloud:**
+- **Cloud:** aws
 - **Automation & Orchestration:** Terraform, Ansible
 - **Containers:** Docker, Kubernetes
 - **CI/CD:** Jenkins, Git, GitHub
