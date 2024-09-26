@@ -43,6 +43,7 @@ I'm a DevOps Engineer with a passion for automating processes, deploying scalabl
 - [LinkedIn](https://www.linkedin.com/in/mobit-diraine-189701183)
 
 ### Workflow Diagrams and Architecture Diagrams
-**CI/CD Pipelines:** Show a visual representation of your CI/CD pipeline stages from build to deployment.
+**CI/CD Pipelines:** Show a visual representation of your CI/CD pipeline stages from build to deployment.  
+<br>
 **Infrastructure Diagrams:** Create diagrams using tools like draw.io or Lucidchart to represent the infrastructure you manage with Terraform or Kubernetes.
 
